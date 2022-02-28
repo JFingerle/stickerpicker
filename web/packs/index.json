@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "StoryOfLove.json",
+    "ChickenChuu.json",
+    "Hot_Chicken.json",
+    "Daenerys.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
