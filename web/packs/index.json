@@ -3,7 +3,10 @@
     "StoryOfLove.json",
     "ChickenChuu.json",
     "Hot_Chicken.json",
-    "Daenerys.json"
+    "Daenerys.json",
+    "Dino_pack.json",
+    "TheAlmostGoodDinosaur.json",
+    "rawrdinosaur.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
